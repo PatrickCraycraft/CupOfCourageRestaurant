@@ -1,0 +1,108 @@
+.box-one{
+  margin-top: 10px;
+  border-color: black;
+        border-style: solid;
+        border-width: 5px;
+  background-color: white;
+}
+.page-head{
+  margin-top: 40px;
+  color: black;
+  text-align: center;
+  font-size: 60px;
+  font-family: "Georgia";
+}
+.small-text-heads{
+  margin-top: 40px;
+  font-size: 30px;
+  text-align: center;
+  color: red;
+  font-family: "Times New Roman";
+}
+.invisible-text-box{
+  margin-top: 10px;
+  text-align: center;
+  font-size: 20px;
+}
+.image-box{
+  margin-top: 60px;
+  margin-left: 15px;
+  margin-right: auto;
+  border-color: red;
+  border-style: solid;
+}
+.directory-words{
+  font-size: 20px;
+  font-family: "Times New Roman";
+  text-align: center;
+}
+.header{
+  text-align: center;
+  color: red;
+  font-family: "Lucida Console";
+}
+.image-one{
+  margin-top: 60px;
+  background-image: url("https://images.unsplash.com/photo-1512151004335-d5b6c2ff7e12?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=0586bd3c820b0c53f417fbce0758673d&auto=format&fit=crop&w=1049&q=80");
+  background-size: 100% auto;
+  margin-left: auto;
+  margin-right: auto;
+  height: 698px;
+  width: 100%;
+}
+.image-two{
+  margin-top: 60px;
+  background-image: url("https://ujg1i3ze1133y9zav35eixy117m-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/coffee-shop_best-location-for-coffee-shop-1.jpg");
+  background-size: 100% auto;
+  margin-left: auto;
+  margin-right: auto;
+  height: 698px;
+  width: 100%;
+}
+.image-three{
+  margin-top: 60px;
+  background-image: url("http://tubacdeli.com/wp-content/uploads/2013/09/food_showcase.jpg");
+  background-size: 100% auto;
+  margin-left: auto;
+  margin-right: auto;
+  height: 698px;
+  width: 100%;
+}
+.all{
+  background-color: tan;
+}
+.menu-food-1{
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cuban_coffee-_2013-04-05_14-30.jpg/1200px-Cuban_coffee-_2013-04-05_14-30.jpg");
+  margin-top: 10px;
+  margin-left: 15px;
+  width: auto;
+  height: auto;
+  max-height: 375px;
+  max-width: 500px;
+}
+.menu-food-2{
+  background-image: url("https://lh3.googleusercontent.com/-_Gy-jhnWgvo/VSYtviCulTI/AAAAAAAFA-8/M4jwdWXVNSI/s800/mashed-potato-pastry-bread-016.jpg");
+  margin-top: 10px;
+  margin-left: 55px;
+  width: auto;
+  height: auto;
+  max-height: 375px;
+  max-width: 500px;
+}
+.menu-info{
+  margin-top: 10px;
+  text-align: left;
+  font-size: 20px;
+}
+.items-1{
+  text-align: left;
+  color: red;
+  font-size: 30px;
+  margin-top: 40px;
+}
+.items-2{
+  text-align: right;
+  color: red;
+  font-size: 30px;
+  margin-top: 40px;
+}
